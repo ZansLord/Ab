@@ -5,7 +5,7 @@ let name = conn.getName(who)
 }
 handler.help = ['vidiobokep']
 handler.tags = ['premium']
-handler.command = /^(vbokep|vidiobokep|bokep)$/i
+handler.command = /^(vbokep|vidiobokep)$/i
 
 handler.premium = true
 handler.limit = false
